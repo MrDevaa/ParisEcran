@@ -78,4 +78,17 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ---
 
+## 💬 Remerciements
+
+- Lorem ipsum
+
+
+## 📜 Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
+
+
 Merci d'utiliser **Paris Ecran** ! Pour toute suggestion ou problème, n'hésitez pas à ouvrir une issue sur GitHub. ✨
+
+ © 2024  - Paris Ecran - Web2 . All rights reserved.
+
