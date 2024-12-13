@@ -68,7 +68,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
    php -S localhost:8000
    ```
 6. Accédez à l'application via votre navigateur :
-   [http://localhost:8000](http://localhost:8000)
+   [http://localhost:](http://localhost:)
 
 ## Collaborateurs 👨‍💻👩‍💻
 
