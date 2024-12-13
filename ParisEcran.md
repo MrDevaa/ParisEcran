@@ -54,21 +54,29 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 ## Instructions pour installer le projet 🛠️
 
 1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/Woodiss/ParisEcran.git
-   ```
-2. Configurez la base de données MySQL via phpMyAdmin en important le fichier SQL fourni.
-3. Installez les dépendances avec Composer :
-   ```bash
-   composer install
-   ```
-4. Configurez le fichier `.env` avec vos informations de connexion à la base de données.
-5. Lancez le serveur PHP :
-   ```bash
-   php -S localhost:8000
-   ```
-6. Accédez à l'application via votre navigateur :
-   [http://localhost:](http://localhost:)
+    ```bash
+    git clone https://github.com/Woodiss/ParisEcran.git
+    ```
+
+2. Configurez la base de données MySQL :
+    - Importez le fichier `.sql` fourni via phpMyAdmin pour créer la base de données et ses tables nécessaires.
+
+3. Configurez le fichier `DBAL/Connector.php` avec vos informations de connexion à la base de données.
+
+4. Installez les dépendances avec Composer :
+    ```bash
+    composer install
+    ```
+
+5. Configurez le fichier `.env` avec vos informations de connexion à la base de données.
+
+6. Lancez le serveur PHP :
+    ```bash
+    php -S localhost:8000 -t public
+    ```
+
+7. Accédez à l'application via votre navigateur :
+    [http://localhost/parisecran](http://localhost/parisecran)
 
 ## Collaborateurs 👨‍💻👩‍💻
 
