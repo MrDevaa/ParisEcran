@@ -53,7 +53,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 1. Clonez le dépôt :
    ```bash
-   git clone [<url-du-depot](https://github.com/Woodiss/ParisEcran.git)>
+   git clone https://github.com/Woodiss/ParisEcran.git
    ```
 2. Configurez la base de données MySQL via phpMyAdmin en important le fichier SQL fourni.
 3. Installez les dépendances avec Composer :
