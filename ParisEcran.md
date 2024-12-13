@@ -72,7 +72,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 6. Lancez le serveur PHP :
     ```bash
-    php -S localhost:8000 -t public
+     localhost
     ```
 
 7. Accédez à l'application via votre navigateur :
