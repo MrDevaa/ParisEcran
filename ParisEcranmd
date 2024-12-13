@@ -4,50 +4,60 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ## Fonctionnalités
 
-| N° | Fonctionnalité demandée                                                                          | Réalisation |
-|----|-------------------------------------------------------------------------------------------------|------------|
-| 1  | Créer un utilisateur (s'inscrire)                                                              | ✔️         |
-| 2  | Associer un artiste à un spectacle                                                             | ✔️         |
-| 3  | Créer un spectacle                                                                             | ✔️         |
-| 4  | Effectuer une réservation pour un spectacle donné                                              | ✔️         |
-| 5  | Modifier le mot de passe d'un utilisateur                                                      | ✔️         |
-| 6  | Ajouter une place à une réservation si le paiement n'a pas encore été effectué                 | ✔️         |
-| 7  | Augmenter le prix des spectacles d'un jour donné de 10%                                        | ✔️         |
-| 8  | Afficher la liste des lieux de spectacle                                                       | ✔️         |
-| 9  | Afficher les spectacles par arrondissement                                                     | ✔️         |
-| 10 | Afficher les salles par arrondissement                                                         | ✔️         |
-| 11 | Afficher les spectacles en cours pour une catégorie donnée                                     | ✔️         |
-| 12 | Afficher le nombre de spectacles par catégorie                                                 | ✔️         |
-| 13 | Afficher le nombre moyen de places réservées par les inscrits                                  | ✔️         |
-| 14 | Afficher la distribution statistique des réservations de places                                | ✔️         |
-| 15 | Afficher le taux de remplissage des salles par spectacle                                       | ✔️         |
-| 16 | Lister les artistes ayant participé avec un artiste donné à au moins deux spectacles différents | ✔️         |
-| 17 | Lister les metteurs en scène travaillant dans un théâtre donné                                 | ✔️         |
-| 18 | Afficher les trois catégories de spectacles les plus réservées                                 | ✔️         |
-| 19 | Recommander des spectacles à un utilisateur                                                    | ✔️         |
-| 20 | Lister les théâtres triés par note moyenne des spectacles                                      | ✔️         |
-| 21 | Trouver les artistes ayant tenu au moins trois fonctions différentes                           | ✔️         |
-| 22 | Lister les recettes par spectacle                                                             | ✔️         |
-| 23 | Identifier les spectacles complets parmi ceux ne se jouant plus                               | ✔️         |
-| 24 | Trouver les artistes préférés des spectateurs                                                 | ✔️         |
-| 25 | Supprimer une réservation                                                                     | ✔️         |
-| 26 | Annuler un spectacle                                                                          | ✔️         |
-| 27 | Créer un spectacle avec des dates et une salle associée                                       | ❌         |
-| 28 | Supprimer un compte utilisateur                                                              | ✔️         |
-| 29 | Ajouter une réaction à un commentaire                                                        | ✔️         |
-| 30 | Trouver les trois théâtres les plus proches d'un point géographique                           | ✔️         |
-| 31 | Trouver les commentaires avec plus de 5 "likes"                                             | ✔️         |
-| 32 | Rechercher des spectacles correspondant à des mots dans le synopsis                          | ✔️         |
+| N°  | Fonctionnalité demandée                                                                           | Réalisation |
+|-----|--------------------------------------------------------------------------------------------------|-------------|
+| 1   | Créer un utilisateur (s'inscrire)                                                               | ✔️          |
+| 2   | Associer un artiste à un spectacle                                                              | ✔️          |
+| 3   | Créer un spectacle                                                                              | ✔️          |
+| 4   | Effectuer une réservation pour un spectacle donné                                               | ✔️          |
+| 5   | Modifier le mot de passe d'un utilisateur                                                       | ✔️          |
+| 6   | Ajouter une place à une réservation si le paiement n'a pas encore été effectué                  | ✔️          |
+| 7   | Augmenter le prix des spectacles d'un jour donné de 10%                                         | ✔️          |
+| 8   | Afficher la liste des lieux de spectacle                                                        | ✔️          |
+| 9   | Afficher les spectacles par arrondissement                                                      | ✔️          |
+| 10  | Afficher les salles par arrondissement                                                          | ✔️          |
+| 11  | Afficher les spectacles en cours pour une catégorie donnée                                      | ✔️          |
+| 12  | Afficher le nombre de spectacles par catégorie                                                  | ✔️          |
+| 13  | Afficher le nombre moyen de places réservées par les inscrits                                   | ✔️          |
+| 14  | Afficher la distribution statistique des réservations de places                                 | ✔️          |
+| 15  | Afficher le taux de remplissage des salles par spectacle                                        | ✔️          |
+| 16  | Lister les artistes ayant participé avec un artiste donné à au moins deux spectacles différents  | ✔️          |
+| 17  | Lister les metteurs en scène travaillant dans un théâtre donné                                  | ✔️          |
+| 18  | Afficher les trois catégories de spectacles les plus réservées                                  | ✔️          |
+| 19  | Recommander des spectacles à un utilisateur                                                     | ✔️          |
+| 20  | Lister les théâtres triés par note moyenne des spectacles                                       | ✔️          |
+| 21  | Trouver les artistes ayant tenu au moins trois fonctions différentes                            | ✔️          |
+| 22  | Lister les recettes par spectacle                                                              | ✔️          |
+| 23  | Identifier les spectacles complets parmi ceux ne se jouant plus                                | ✔️          |
+| 24  | Trouver les artistes préférés des spectateurs                                                  | ✔️          |
+| 25  | Supprimer une réservation                                                                      | ✔️          |
+| 26  | Annuler un spectacle                                                                           | ✔️          |
+| 27  | Créer un spectacle avec des dates et une salle associée                                        | ❌          |
+| 28  | Supprimer un compte utilisateur                                                               | ✔️          |
+| 29  | Ajouter une réaction à un commentaire                                                         | ✔️          |
+| 30  | Trouver les trois théâtres les plus proches d'un point géographique                            | ✔️          |
+| 31  | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
+| 32  | Rechercher des spectacles correspondant à des mots dans le synopsis                           | ✔️          |
 
 ## Technologies utilisées
 
-| Technologie  | Description                              | Logo                          |
-|--------------|------------------------------------------|-------------------------------|
-| PHP          | Langage de programmation backend         | ![PHP Logo](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) |
-| MySQL        | Base de données relationnelle           | ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg) |
-| phpMyAdmin   | Interface de gestion de MySQL           | ![phpMyAdmin Logo](https://upload.wikimedia.org/wikipedia/commons/6/66/PhpMyAdmin_logo.svg) |
-| Composer     | Gestionnaire de dépendances PHP         | ![Composer Logo](https://getcomposer.org/img/logo-composer-transparent5.png) |
-| GitHub       | Plateforme de gestion de version         | ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) |
+| Technologie  | Description                              |
+|--------------|------------------------------------------|
+| PHP          | Langage de programmation backend         |
+| MySQL        | Base de données relationnelle           |
+| phpMyAdmin   | Interface de gestion de MySQL           |
+| Composer     | Gestionnaire de dépendances PHP         |
+| GitHub       | Plateforme de gestion de version         |
+
+### Logos des technologies utilisées
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/PhpMyAdmin_logo.svg" alt="phpMyAdmin Logo" width="100" />
+  <img src="https://getcomposer.org/img/logo-composer-transparent5.png" alt="Composer Logo" width="100" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" />
+</div>
 
 ## Instructions pour installer le projet
 
