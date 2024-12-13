@@ -76,7 +76,9 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
     ```
 
 7. Accédez à l'application via votre navigateur :
-    [http://localhost/parisecran](http://localhost/parisecran)
+    ```bash
+       http://localhost/parisecran
+     ```
 
 ## Collaborateurs 👨‍💻👩‍💻
 
