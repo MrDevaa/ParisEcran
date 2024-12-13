@@ -1,5 +1,6 @@
 # Paris Ecran 🎭🎥
 
+## 📖 Description
 Paris Ecran est un site de réservation inspiré des fonctionnalités de plateformes comme CGR, développé en PHP avec une base de données MySQL. Ce projet vise à simplifier la gestion des spectacles, des réservations et des interactions utilisateur, tout en offrant des fonctionnalités avancées pour l'administration et les statistiques.
 
 ## Fonctionnalités ✅
@@ -48,6 +49,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 - ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 - ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 ## Instructions pour installer le projet 🛠️
 
