@@ -41,23 +41,13 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ## Technologies utilisées
 
-| Technologie  | Description                              |
-|--------------|------------------------------------------|
-| PHP          | Langage de programmation backend         |
-| MySQL        | Base de données relationnelle           |
-| phpMyAdmin   | Interface de gestion de MySQL           |
-| Composer     | Gestionnaire de dépendances PHP         |
-| GitHub       | Plateforme de gestion de version         |
+### Technologies avec badges
 
-### Logos des technologies utilisées
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="100" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/PhpMyAdmin_logo.svg" alt="phpMyAdmin Logo" width="100" />
-  <img src="https://getcomposer.org/img/logo-composer-transparent5.png" alt="Composer Logo" width="100" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="100" />
-</div>
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+- ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Instructions pour installer le projet
 
