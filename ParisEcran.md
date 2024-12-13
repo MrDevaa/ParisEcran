@@ -1,8 +1,8 @@
-# Paris Ecran
+# Paris Ecran 🎭🎥
 
 Paris Ecran est un site de réservation inspiré des fonctionnalités de plateformes comme CGR, développé en PHP avec une base de données MySQL. Ce projet vise à simplifier la gestion des spectacles, des réservations et des interactions utilisateur, tout en offrant des fonctionnalités avancées pour l'administration et les statistiques.
 
-## Fonctionnalités
+## Fonctionnalités ✅
 
 | N°  | Fonctionnalité demandée                                                                           | Réalisation |
 |-----|--------------------------------------------------------------------------------------------------|-------------|
@@ -39,7 +39,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 | 31  | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
 | 32  | Rechercher des spectacles correspondant à des mots dans le synopsis                           | ✔️          |
 
-## Technologies utilisées
+## Technologies utilisées 💻
 
 ### Technologies avec badges
 
@@ -49,7 +49,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 - ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Instructions pour installer le projet
+## Instructions pour installer le projet 🛠️
 
 1. Clonez le dépôt :
    ```bash
@@ -68,7 +68,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 6. Accédez à l'application via votre navigateur :
    [http://localhost:8000](http://localhost:8000)
 
-## Collaborateurs
+## Collaborateurs 👨‍💻👩‍💻
 
 | Nom                | Prénom             | Poste                 |
 |--------------------|--------------------|-----------------------|
@@ -76,4 +76,4 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ---
 
-Merci d'utiliser **Paris Ecran** ! Pour toute suggestion ou problème, n'hésitez pas à ouvrir une issue sur GitHub.
+Merci d'utiliser **Paris Ecran** ! Pour toute suggestion ou problème, n'hésitez pas à ouvrir une issue sur GitHub. ✨
