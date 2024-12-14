@@ -36,7 +36,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 | 27  | Supprimer un compte utilisateur                                                               | ✔️          |
 | 28  | Ajouter une réaction à un commentaire                                                         | ✔️          |
 | 29  | Trouver les trois théâtres les plus proches d'un point géographique                            | ✔️          |
-| 30 | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
+| 30  | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
 | 31  | Rechercher des spectacles correspondant à des mots dans le synopsis                           | ✔️          |
 
 ## Technologies utilisées 💻
@@ -86,7 +86,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 |--------------------|--------------------|-----------------------|
 |DESCARPENTRIES      | Stéphane           | Développeur Full Stack|
 |DE PASQUAL Eddy Jean       | Christopher           | Développeur Full Stack|
-|      | Adrien           | Développeur Full Stack| 
+|   Allard   | Adrien           | Développeur Full Stack| 
 |      | Amaury           | Développeur Full Stack| 
 |CODANDABANY      | Devanandhan           | Développeur Back End| 
 
