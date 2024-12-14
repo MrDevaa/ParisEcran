@@ -33,12 +33,11 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 | 24  | Trouver les artistes préférés des spectateurs                                                  | ✔️          |
 | 25  | Supprimer une réservation                                                                      | ✔️          |
 | 26  | Annuler un spectacle                                                                           | ✔️          |
-| 27  | Créer un spectacle avec des dates et une salle associée                                        | ❌          |
-| 28  | Supprimer un compte utilisateur                                                               | ✔️          |
-| 29  | Ajouter une réaction à un commentaire                                                         | ✔️          |
-| 30  | Trouver les trois théâtres les plus proches d'un point géographique                            | ✔️          |
-| 31  | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
-| 32  | Rechercher des spectacles correspondant à des mots dans le synopsis                           | ✔️          |
+| 27  | Supprimer un compte utilisateur                                                               | ✔️          |
+| 28  | Ajouter une réaction à un commentaire                                                         | ✔️          |
+| 29  | Trouver les trois théâtres les plus proches d'un point géographique                            | ✔️          |
+| 30 | Trouver les commentaires avec plus de 5 "likes"                                              | ✔️          |
+| 31  | Rechercher des spectacles correspondant à des mots dans le synopsis                           | ✔️          |
 
 ## Technologies utilisées 💻
 
@@ -95,7 +94,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ## 📜 Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
+Ce projet est sous licence. Voir le fichier [LICENSE](./LICENSE) pour plus de détails.
 
 
 Merci d'utiliser **Paris Ecran** ! Pour toute suggestion ou problème, n'hésitez pas à ouvrir une issue sur GitHub. ✨
