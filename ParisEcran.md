@@ -89,7 +89,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 
 ## 💬 Remerciements
 
-- Lorem ipsum
+- Un grand merci à Damien pour ce projet stimulant et enrichissant ! Ce projet nous a permis de développer nos compétences en React tout en explorant des fonctionnalités uniques, comme le tableau de bord "old school" et l'éditeur Markdown. Merci pour l'inspiration et les conseils tout au long de ce parcours ! 🙏
 
 
 ## 📜 Licence
