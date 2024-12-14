@@ -88,7 +88,7 @@ Paris Ecran est un site de réservation inspiré des fonctionnalités de platefo
 |DE PASQUAL Eddy Jean       | Christopher           | Développeur Full Stack|
 |      | Adrien           | Développeur Full Stack| 
 |      | Amaury           | Développeur Full Stack| 
-|Codandabany      | Devanandhan           | Développeur Back End| 
+|CODANDABANY      | Devanandhan           | Développeur Back End| 
 
 ---
 
